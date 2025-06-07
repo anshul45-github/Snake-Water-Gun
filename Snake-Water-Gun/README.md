@@ -4,10 +4,10 @@ A simple command-line implementation of the classic Snake-Water-Gun game (simila
 
 ## How to Run
 
-2. **Install Python (if not already installed):**
+1. **Install Python (if not already installed):**
     - Download from [python.org](https://www.python.org/downloads/).
 
-3. **Run the game:**
+2. **Run the game:**
     ```bash
     python main.py
     ```
